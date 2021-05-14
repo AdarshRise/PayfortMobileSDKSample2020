@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PayfortTryAgain</string>
+    <string name="enter_amount_in_aed">Enter amount in AED</string>
+    <string name="purchase">Purchase</string>
+</resources>

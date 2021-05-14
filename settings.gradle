@@ -1,0 +1,3 @@
+include ':FORTSDKv1.8'
+include ':app'
+rootProject.name = "PayfortTryAgain"
