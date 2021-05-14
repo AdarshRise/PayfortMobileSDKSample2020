@@ -1,4 +1,4 @@
-# PayfortSample2020
+# PayfortMobileSDKSample2020
 This is a Payfort Sample built using the instruction in the Payfort Doc 2020. 
 
 This sample is not production ready, and should only be used for overview of Mobile SDK channel work-funtionality.
